@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "yr.no-interface": "0.1.1",
+    "yr.no-interface": "https://github.com/redhat-mobile-consulting/yr.no-interface.git",
     "moment": "2.4.0",
     "xml2js": "0.2.8",
     "async": "0.2.9"
